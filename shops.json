@@ -5,7 +5,7 @@
     "neighborhood": "Downtown",
     "rating": 4.7,
     "hours": "7am - 5pm",
-    "image": "https://example.com/images/mothership.jpg"
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/6f/ba/ab/mothership-coffee-roasters.jpg?w=900&h=500&s=1"
   },
   {
     "id": 2,
@@ -13,7 +13,7 @@
     "neighborhood": "Fremont East",
     "rating": 4.6,
     "hours": "8am - 4pm",
-    "image": "https://example.com/images/publicus.jpg"
+    "image": "https://res.cloudinary.com/neonfeast/image/upload/c_limit,w_1200/v1644959787/sys/listings/3f9e5c6a-7db9-4064-8fe8-faf862f93323/publicus_exterior.jpg"
   },
   {
     "id": 3,
@@ -21,15 +21,15 @@
     "neighborhood": "Arts District",
     "rating": 4.8,
     "hours": "7am - 4pm",
-    "image": "https://example.com/images/vesta.jpg"
+    "image": "https://preview.redd.it/7yqls0n93tu41.jpg?width=1080&crop=smart&auto=webp&s=533451d93bfa5a0417384744a53d40d829404d48"
   },
   {
     "id": 4,
-    "name": "Sambalatte",
-    "neighborhood": "Summerlin",
+    "name": "Writers Block",
+    "neighborhood": "Arts District",
     "rating": 4.5,
     "hours": "7am - 6pm",
-    "image": "https://example.com/images/sambalatte.jpg"
+    "image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/078/78036-1.JPG"
   },
   {
     "id": 5,
@@ -37,15 +37,15 @@
     "neighborhood": "Henderson",
     "rating": 4.4,
     "hours": "6am - 2pm",
-    "image": "https://example.com/images/desertwind.jpg"
+    "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/19/29/21/fc/store-interior.jpg"
   },
   {
     "id": 6,
     "name": "Bad Owl Coffee",
-    "neighborhood": "Spring Valley",
+    "neighborhood": "Henderson",
     "rating": 4.3,
     "hours": "8am - 6pm",
-    "image": "https://example.com/images/badowl.jpg"
+    "image": "https://everyday.vegas/wp-content/uploads/2025/01/Interior-of-Bad-Owl-Coffee.jpg"
   },
   {
     "id": 7,
@@ -53,7 +53,7 @@
     "neighborhood": "Downtown",
     "rating": 4.6,
     "hours": "7am - 3pm",
-    "image": "https://example.com/images/makersfinders.jpg"
+    "image": "https://summerlin.com/wp-content/uploads/2020/02/MakersFinders.jpg"
   },
   {
     "id": 8,
@@ -61,7 +61,7 @@
     "neighborhood": "Southwest",
     "rating": 4.2,
     "hours": "9am - 5pm",
-    "image": "https://example.com/images/cafelola.jpg"
+    "image": "https://images.squarespace-cdn.com/content/v1/627aa7f5b348991972e9776d/36409524-90b0-4e10-9a6f-bf2d47cbc1a5/Cafe+Lola+-+34.jpg"
   },
   {
     "id": 9,
@@ -69,14 +69,14 @@
     "neighborhood": "Chinatown",
     "rating": 4.7,
     "hours": "10am - 8pm",
-    "image": "https://example.com/images/gabi.jpg"
+    "image": "https://images.squarespace-cdn.com/content/v1/6584c49e1ebc22517ad39a97/f625b68f-5fc7-4acc-83f2-9108eb0c20b3/Home-Page.jpg"
   },
   {
     "id": 10,
-    "name": "JoJo's Java",
+    "name": "Bungalow Coffee",
     "neighborhood": "Enterprise",
     "rating": 4.0,
     "hours": "6am - 1pm",
-    "image": "https://example.com/images/jojosjava.jpg"
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/krzbhowJA04PaxO_dNTvJw/348s.jpg"
   }
 ]
