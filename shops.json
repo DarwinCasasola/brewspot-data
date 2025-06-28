@@ -5,7 +5,7 @@
     "neighborhood": "Downtown",
     "rating": 4.7,
     "hours": "7am - 5pm",
-    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/6f/ba/ab/mothership-coffee-roasters.jpg?w=900&h=500&s=1"
+    "image": "images/mothership-coffee-roasters.jpg"
   },
   {
     "id": 2,
@@ -13,7 +13,7 @@
     "neighborhood": "Fremont East",
     "rating": 4.6,
     "hours": "8am - 4pm",
-    "image": "https://res.cloudinary.com/neonfeast/image/upload/c_limit,w_1200/v1644959787/sys/listings/3f9e5c6a-7db9-4064-8fe8-faf862f93323/publicus_exterior.jpg"
+    "image": "images/publicus_exterior.jpg"
   },
   {
     "id": 3,
