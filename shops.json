@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Mothership Coffee Roasters",
+    "neighborhood": "Downtown",
+    "rating": 4.7,
+    "hours": "7am - 5pm",
+    "image": "https://example.com/images/mothership.jpg"
+  },
+  {
+    "id": 2,
+    "name": "PublicUs",
+    "neighborhood": "Fremont East",
+    "rating": 4.6,
+    "hours": "8am - 4pm",
+    "image": "https://example.com/images/publicus.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Vesta Coffee Roasters",
+    "neighborhood": "Arts District",
+    "rating": 4.8,
+    "hours": "7am - 4pm",
+    "image": "https://example.com/images/vesta.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Sambalatte",
+    "neighborhood": "Summerlin",
+    "rating": 4.5,
+    "hours": "7am - 6pm",
+    "image": "https://example.com/images/sambalatte.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Desert Wind Coffee Roasters",
+    "neighborhood": "Henderson",
+    "rating": 4.4,
+    "hours": "6am - 2pm",
+    "image": "https://example.com/images/desertwind.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Bad Owl Coffee",
+    "neighborhood": "Spring Valley",
+    "rating": 4.3,
+    "hours": "8am - 6pm",
+    "image": "https://example.com/images/badowl.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Makers & Finders",
+    "neighborhood": "Downtown",
+    "rating": 4.6,
+    "hours": "7am - 3pm",
+    "image": "https://example.com/images/makersfinders.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Cafe Lola",
+    "neighborhood": "Southwest",
+    "rating": 4.2,
+    "hours": "9am - 5pm",
+    "image": "https://example.com/images/cafelola.jpg"
+  },
+  {
+    "id": 9,
+    "name": "G\u00e4bi Coffee & Bakery",
+    "neighborhood": "Chinatown",
+    "rating": 4.7,
+    "hours": "10am - 8pm",
+    "image": "https://example.com/images/gabi.jpg"
+  },
+  {
+    "id": 10,
+    "name": "JoJo's Java",
+    "neighborhood": "Enterprise",
+    "rating": 4.0,
+    "hours": "6am - 1pm",
+    "image": "https://example.com/images/jojosjava.jpg"
+  }
+]
